@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Колькина программка</string>
+    <string name="edit_message">Напиши чего-нибудь</string>
+    <string name="button_send">Отправить</string>
+</resources>
